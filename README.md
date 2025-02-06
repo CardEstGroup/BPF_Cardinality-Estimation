@@ -8,5 +8,7 @@ Using the [End-to-End-Benchmark](https://github.com/Nathaniel-Han/End-to-End-Car
 The CEB and JOB query workload are in the sqls folder.
 # Run
 python train_bpf.py
+
 python single_table_ce.py
+
 python multi_table_ce.py
